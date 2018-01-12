@@ -1,0 +1,15 @@
+{
+  "name": "Boilerplate-Bootstrap4",
+  "version": "1.0.0",
+  "description": "It's included bootstrap.4.0.0-beta.3, animate.css, font-awesome, and wow.js",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "4.0.0-beta.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9",
+    "wowjs": "^1.1.3"
+  }
+}
